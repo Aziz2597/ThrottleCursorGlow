@@ -9,7 +9,7 @@ This project demonstrates a simple image hover effect using JavaScript and GSAP 
 - GSAP library for fluid image transitions.
 - Responsive layout with CSS flexbox.
 
-##Dependencies
+## Dependencies
 
 -GSAP
 -Live Server (on port 8080 by default)
